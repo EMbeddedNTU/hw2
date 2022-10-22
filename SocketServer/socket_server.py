@@ -9,7 +9,7 @@ import time
 import threading
 # import queue
 
-HOST = '192.168.0.102' # IP address 
+HOST = '192.168.000.000' # IP address 
 PORT = 5555 # Port to listen on (use ports > 1023) 
 
 
