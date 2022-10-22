@@ -1,15 +1,17 @@
 # HW2: Socket Programming and Data Visualization
 
-## Team member:
-b09901052 b09901058
-
-#### graph place holder
+![Alt text](docs/SampleFigure.png?raw=true)
 
 This codebase contains 2 parts that can be found in the SocketClient folder and the SocketServer respectively.
 
 The SocketClient folder contains the code and config files for the STM32 IoT node. The program can be built using Mbed Studio. The functionality for the client is to connect to wifi and send data to the socket server.
 
 The SocketServer folder contains the code to run a socket server, which can visualize the data sent by the socket client.
+
+## Team member:
+b09901052 劉承亞
+b09901058 邱奕翔
+
 
 ## How to run 
 
